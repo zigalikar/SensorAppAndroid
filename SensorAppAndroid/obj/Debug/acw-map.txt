@@ -1,0 +1,4 @@
+SensorAppAndroid.MainActivity, SensorAppAndroid;md50fd07372f16e7d049c9242652fecec01.MainActivity
+SensorAppAndroid.MainActivity, SensorAppAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50fd07372f16e7d049c9242652fecec01.MainActivity
+SensorAppAndroid.MainActivity;md50fd07372f16e7d049c9242652fecec01.MainActivity
+sensorappandroid.MainActivity;md50fd07372f16e7d049c9242652fecec01.MainActivity

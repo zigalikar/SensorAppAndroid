@@ -1,0 +1,15 @@
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Release\SensorAppAndroid.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Release\SensorAppAndroid.pdb
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Release\SensorAppAndroid.SensorAppAndroid.apk
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Release\SensorAppAndroid.SensorAppAndroid-Signed.apk
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\SensorAppAndroid.csprojResolveAssemblyReference.cache
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\SensorAppAndroid.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\SensorAppAndroid.pdb
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\bin\SensorAppAndroid.SensorAppAndroid.apk
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\res\layout\main.xml
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\res\values\strings.xml
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\res\drawable\icon.png
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\R.cs.flag
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\uploadflags.txt
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Release\SensorAppAndroid.dll.mdb
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\SensorAppAndroid.dll.mdb

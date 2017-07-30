@@ -1,0 +1,11 @@
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\SensorAppAndroid.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\Java.Interop.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\Microsoft.CSharp.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\Mono.Android.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\mscorlib.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\System.Core.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\System.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\System.Xml.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\Mono.CSharp.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Release\android\assets\Mono.Security.dll

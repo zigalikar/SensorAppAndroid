@@ -1,0 +1,14 @@
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Debug\SensorAppAndroid.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Debug\SensorAppAndroid.pdb
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Debug\SensorAppAndroid.SensorAppAndroid.apk
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Debug\SensorAppAndroid.SensorAppAndroid-Signed.apk
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Debug\SensorAppAndroid.dll
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Debug\SensorAppAndroid.pdb
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Debug\android\bin\SensorAppAndroid.SensorAppAndroid.apk
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Debug\res\layout\main.xml
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Debug\res\values\strings.xml
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Debug\res\drawable\icon.png
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Debug\R.cs.flag
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Debug\uploadflags.txt
+D:\C#\SensorAppAndroid\SensorAppAndroid\bin\Debug\SensorAppAndroid.dll.mdb
+D:\C#\SensorAppAndroid\SensorAppAndroid\obj\Debug\android\assets\SensorAppAndroid.dll.mdb
